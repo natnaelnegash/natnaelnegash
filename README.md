@@ -80,8 +80,6 @@
 | 🎬 **Link-in-bio** | Adaptive video quality, multiple resolutions, efficient media delivery |
 | 🌐 **Portfolio Website** | Next.js + Tailwind CSS, fully responsive, deployed on Vercel |
 
-> 📝 *Update the repo names/links above (`Passport_Authentication`, `portfolio`) to match your actual repos for these featured projects — I used your public repos as placeholders where names didn't line up exactly.*
-
 ---
 
 ### 📊 GitHub Stats
