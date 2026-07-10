@@ -102,8 +102,6 @@
   <img src="https://raw.githubusercontent.com/natnaelnegash/natnaelnegash/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </p>
 
-> 🐍 *The snake animation needs a one-time GitHub Actions setup — see the note at the bottom.*
-
 ---
 
 ### 🌱 Currently Learning
