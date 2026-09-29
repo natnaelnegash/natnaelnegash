@@ -93,10 +93,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=natnaelnegash&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=natnaelnegash&theme=redical&hide_border=true" width="95%"/>
-</p>
-
 <!-- Contribution Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/natnaelnegash/natnaelnegash/output/github-contribution-grid-snake-dark.svg" width="95%"/>
